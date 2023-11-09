@@ -11,7 +11,7 @@ Download this repo and run `npm i` to install node packages.
 | ------------------------------ | ----------- |
 | Run application (on port 8000) | `npm start` |
 
-app hosted on http://mypersonal.online/
+
 
 ### Tech Stack
 
